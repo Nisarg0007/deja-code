@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Dataset and generated artifacts
+questions.csv
+questions.csv.zip
+*.parquet
+embeddings.npy
+
+# Local environment
+.env
+.DS_Store
